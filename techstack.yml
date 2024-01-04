@@ -1,7 +1,8 @@
 repo_name: ubogdan/CHAOS
 report_id: ba0e0abf62c265b4415766dcb80e2ed8
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T21:15:57+00:00'
+timestamp: '2024-01-04T15:14:33+00:00'
 requested_by: tiagorlampert
 provider: github
 branch: master
@@ -17,6 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/ubogdan/CHAOS
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -27,6 +29,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ubogdan/CHAOS
   detection_source: Repo Metadata
 - name: Gin Gonic
   description: 'HTTP web framework written in Go '
@@ -37,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/4221/7894478.png
+  detection_source_url: https://github.com/ubogdan/CHAOS/blob/master/go.mod
   detection_source: go.mod
   last_updated_by: tiagorlampert
   last_updated_on: 2021-09-08 19:41:22.000000000 Z
@@ -50,7 +54,7 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/5194/default_c656a82cbf499a944563022a13ebbd62c9f3aa4b.png
-  detection_source_url: go.sum
+  detection_source_url: https://github.com/ubogdan/CHAOS/blob/master/go.sum
   detection_source: go.mod
   last_updated_by: tiagorlampert
   last_updated_on: 2021-09-08 19:41:22.000000000 Z
@@ -63,6 +67,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ubogdan/CHAOS
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -72,6 +77,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ubogdan/CHAOS
   detection_source: Repo Metadata
 - name: go-sqlite3
   description: Sqlite3 driver for go using database/sql
@@ -82,6 +88,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/ubogdan/CHAOS/blob/master/go.mod
   detection_source: go.mod
   last_updated_by: Tiago Rodrigo Lampert
   last_updated_on: 2022-07-16 14:14:44.000000000 Z
